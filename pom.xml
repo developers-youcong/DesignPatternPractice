@@ -8,5 +8,6 @@
   <modules>
   	<module>Singleton</module>
   	<module>Factory</module>
+  	<module>AbstractFactory</module>
   </modules>
 </project>
