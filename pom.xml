@@ -10,5 +10,6 @@
   	<module>Factory</module>
   	<module>AbstractFactory</module>
   	<module>Template</module>
+  	<module>Builder</module>
   </modules>
 </project>
