@@ -11,5 +11,7 @@
   	<module>AbstractFactory</module>
   	<module>Template</module>
   	<module>Builder</module>
+      <module>Proxy</module>
+      <module>Prototype</module>
   </modules>
 </project>
