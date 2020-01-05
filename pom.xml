@@ -13,5 +13,6 @@
   	<module>Builder</module>
       <module>Proxy</module>
       <module>Prototype</module>
+      <module>Mediator</module>
   </modules>
 </project>
