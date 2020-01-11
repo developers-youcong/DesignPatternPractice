@@ -14,5 +14,6 @@
       <module>Proxy</module>
       <module>Prototype</module>
       <module>Mediator</module>
+      <module>Command</module>
   </modules>
 </project>
