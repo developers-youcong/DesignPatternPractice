@@ -15,5 +15,6 @@
       <module>Prototype</module>
       <module>Mediator</module>
       <module>Command</module>
+      <module>ChainOfResponsibility</module>
   </modules>
 </project>
