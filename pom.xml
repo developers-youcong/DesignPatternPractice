@@ -16,5 +16,6 @@
       <module>Mediator</module>
       <module>Command</module>
       <module>ChainOfResponsibility</module>
+      <module>Decorator</module>
   </modules>
 </project>
