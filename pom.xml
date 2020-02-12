@@ -17,5 +17,6 @@
       <module>Command</module>
       <module>ChainOfResponsibility</module>
       <module>Decorator</module>
+      <module>Strategy</module>
   </modules>
 </project>
