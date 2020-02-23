@@ -18,5 +18,6 @@
       <module>ChainOfResponsibility</module>
       <module>Decorator</module>
       <module>Strategy</module>
+      <module>Adapter</module>
   </modules>
 </project>
