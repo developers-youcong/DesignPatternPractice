@@ -19,5 +19,6 @@
       <module>Decorator</module>
       <module>Strategy</module>
       <module>Adapter</module>
+      <module>Iterator</module>
   </modules>
 </project>
