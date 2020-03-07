@@ -20,5 +20,6 @@
       <module>Strategy</module>
       <module>Adapter</module>
       <module>Iterator</module>
+      <module>Combination</module>
   </modules>
 </project>
