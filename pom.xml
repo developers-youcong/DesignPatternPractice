@@ -21,5 +21,6 @@
       <module>Adapter</module>
       <module>Iterator</module>
       <module>Combination</module>
+      <module>ObServer</module>
   </modules>
 </project>
