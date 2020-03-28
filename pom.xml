@@ -22,5 +22,6 @@
       <module>Iterator</module>
       <module>Combination</module>
       <module>ObServer</module>
+      <module>Facade</module>
   </modules>
 </project>
