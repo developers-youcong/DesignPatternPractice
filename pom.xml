@@ -23,5 +23,6 @@
       <module>Combination</module>
       <module>ObServer</module>
       <module>Facade</module>
+      <module>Memento</module>
   </modules>
 </project>
