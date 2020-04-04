@@ -24,5 +24,6 @@
       <module>ObServer</module>
       <module>Facade</module>
       <module>Memento</module>
+      <module>Visitor</module>
   </modules>
 </project>
