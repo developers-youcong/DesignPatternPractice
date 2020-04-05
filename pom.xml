@@ -25,5 +25,6 @@
       <module>Facade</module>
       <module>Memento</module>
       <module>Visitor</module>
+      <module>State</module>
   </modules>
 </project>
