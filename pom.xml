@@ -26,5 +26,6 @@
       <module>Memento</module>
       <module>Visitor</module>
       <module>State</module>
+      <module>Interpreter</module>
   </modules>
 </project>
