@@ -27,5 +27,6 @@
       <module>Visitor</module>
       <module>State</module>
       <module>Interpreter</module>
+      <module>Flyweight</module>
   </modules>
 </project>
