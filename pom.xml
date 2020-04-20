@@ -28,5 +28,6 @@
       <module>State</module>
       <module>Interpreter</module>
       <module>Flyweight</module>
+      <module>Bridge</module>
   </modules>
 </project>
